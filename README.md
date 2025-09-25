@@ -14,6 +14,8 @@ Batch processing: Handles big lists with a progress bar so you always know whatâ
 ## See It In Action
 When fuzzy matching canâ€™t decide, you get to choose the right book from a visual picker:
 
+![clipped](https://github.com/user-attachments/assets/827ef2a0-d8ac-432f-93e0-23838821a3d7)
+
 
 ## How To Use
 Prepare your CSV: One column with book titles (from screenshots, LLMs, wherever).
